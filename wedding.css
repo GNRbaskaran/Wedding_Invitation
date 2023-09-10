@@ -1,0 +1,28 @@
+.main{
+    background-color: purple;
+    color: gold;
+    border: 10px darkgoldenrod;
+    border: 10px solid gold;
+}
+a{
+    color:white;
+    font-weight: bold;
+    padding: 0.5 rem 1rem;
+    text-decoration: none;
+    border:1px solid gold;
+    border-radius: 100px;
+    background-color: aquamarine;
+}
+.sub{
+    border: 10px solid gold; 
+}
+a:focus{
+    color: yellow;
+}
+a:hover{
+    background-color: yellow;
+    color:black;
+}
+a:active{
+    color:red;
+}
